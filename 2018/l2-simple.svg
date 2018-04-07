@@ -1180,11 +1180,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8276635"
-     inkscape:cx="368.83029"
-     inkscape:cy="649.41473"
+     inkscape:zoom="1.3260617"
+     inkscape:cx="442.99454"
+     inkscape:cy="592.23628"
      inkscape:document-units="px"
-     inkscape:current-layer="g5080"
+     inkscape:current-layer="g6184"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
@@ -2308,7 +2308,7 @@
          r="3.107851" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none;font-variant:normal;font-stretch:normal;font-size:14px;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
          x="140.85873"
          y="740.55109"
          id="text6269"><tspan
@@ -2316,7 +2316,18 @@
            id="tspan6271"
            x="140.85873"
            y="740.55109"
-           style="font-size:14px;line-height:1.25">Unused</tspan></text>
+           style="font-size:14px;line-height:1.25;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;">Unused</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="140.85873"
+         y="754.55109"
+         id="text6269-3"><tspan
+           sodipodi:role="line"
+           id="tspan6271-5"
+           x="140.85873"
+           y="754.55109"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Power lines</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -3074,7 +3085,7 @@
          sodipodi:role="line"
          id="tspan2553"
          x="204.12097"
-         y="232.40298"></tspan></text>
+         y="232.40298" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3181,6 +3192,17 @@
            y="690.2439"
            x="191.99304"
            sodipodi:role="line">Wire Box</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#006bff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -234.43416,136.83299 h -41.16113 v 31.96083 h -6.16017 v 48.72134 h 8.68024 v 76.4421 h -8.40023 v 51.52141 h 6.72018 v 37.80104 h 114.52315 V 267.07652"
+         id="path5283"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#006bff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 61.33141,871.95548 H 99.14426"
+         id="path5285"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g6806">
