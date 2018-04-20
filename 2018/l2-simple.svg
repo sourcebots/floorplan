@@ -1208,13 +1208,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9828272"
-     inkscape:cx="406.89873"
-     inkscape:cy="743.11578"
+     inkscape:zoom="1.3899276"
+     inkscape:cx="153.95095"
+     inkscape:cy="833.96524"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      showgrid="false"
-     inkscape:window-width="1916"
+     inkscape:window-width="956"
      inkscape:window-height="1041"
      inkscape:window-x="0"
      inkscape:window-y="18"
@@ -1294,16 +1294,16 @@
        x="146.16069"
        y="628.42712" />
     <rect
-       style="display:inline;fill:#ff2a2a;stroke:none;stroke-width:1.10394502"
+       style="display:inline;fill:#ff2a2a;stroke:none;stroke-width:0.64239025"
        id="rect3324-6-7"
        width="18.459101"
-       height="127.81732"
+       height="43.28054"
        x="73.243759"
-       y="166.62897" />
+       y="251.16574" />
     <rect
-       style="display:inline;fill:#ff2a2a;stroke:none;stroke-width:1.18347347"
+       style="display:inline;fill:#ff2a2a;stroke:none;stroke-width:0.6539883"
        id="rect3324-6-7-2"
-       width="61.62682"
+       width="18.818832"
        height="44"
        x="72.757797"
        y="123.37232" />
@@ -1314,6 +1314,20 @@
        height="44"
        x="136.93323"
        y="458.43835" />
+    <rect
+       style="display:inline;fill:#ffaaaa;stroke:none;stroke-width:0.59729594"
+       id="rect4754-9"
+       width="42.697197"
+       height="44"
+       x="91.57663"
+       y="123.37232" />
+    <rect
+       style="display:inline;fill:#ffaaaa;stroke:none;stroke-width:0.55957413"
+       id="rect4754-9-5"
+       width="19.314684"
+       height="85.369064"
+       x="72.070473"
+       y="166.28241" />
   </g>
   <g
      inkscape:label="floorplan"
