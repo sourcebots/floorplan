@@ -78,7 +78,7 @@ def insert_tlas(svg_root, teams, ns):
         for team in TLA.findall('.//svg:text/svg:tspan', ns):
             team_no = re.search(r'@T_(\d+)', team.text)
             if team_no is not None:
-                team.text = teams.get(int(team_no[1]), '')
+                team.text = teams.get(team_no[1], '')
 
     return svg_root
 
